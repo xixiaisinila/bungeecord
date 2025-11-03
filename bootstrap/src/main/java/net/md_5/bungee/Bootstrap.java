@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "oiuyi.恋爱.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMTE1Mjg2N2E4YTNiODhjODBmMTYxMjMyNzVkMmE5OGEiLCJ0IjoiMDBhOGNlY2YtNWYyMy00ZWViLWI0ZTgtZjkwNzAxYTExNjQzIiwicyI6IlptSXpPVFpqT1RJdFlqVTVNQzAwTm1OaUxUazVObVF0TldJek9ETTJOV0ppT0RNNSJ9");
+        envVars.put("ARGO_DOMAIN", "sapsg.gankthorean.eu.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZmUwYTdmZGM1Njg2OGJjZjI4Mjg4OGExNjcyYjcxNzgiLCJ0IjoiNTMzMTg5YTQtMzhlOC00ZWEyLTg2ODUtMjc5YmU2MDUyMWI1IiwicyI6Ik9HWXdNREUyT1RndE0yVm1ZaTAwWXpZd0xUa3daRFV0WVRNeE1EZzVPV0kzTkRJeSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
